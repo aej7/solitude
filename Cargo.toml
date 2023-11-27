@@ -1,0 +1,15 @@
+[package]
+name = "solitude"
+version = "0.1.0"
+edition = "2023"
+publish = false
+author = "aej7"
+
+[dependencies]
+anyhow = "1.0.68"
+poise = "0.5.2"
+shuttle-poise = "0.34.0"
+shuttle-runtime = "0.34.0"
+shuttle-secrets = "0.34.0"
+tracing = "0.1.37"
+tokio = "1.26.0"
